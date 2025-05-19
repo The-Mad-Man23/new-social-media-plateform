@@ -1,2 +1,3 @@
-# new-social-media-plateform
-first repository
+# new-social-media-platform
+The Mad Man 
+
